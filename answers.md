@@ -49,6 +49,30 @@ Date:   Fri Sep 5 14:28:42 2025 -0400
     Initial commit
     
 Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   answers.md
+
+Answer 10:
+No, the changes I made online were not reflected in my local copy.
+
+Answer 11:
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/alexoutfal/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+Answer 12: No
+
+Answer 13: .  ..  git-lab-2
+
 
 
 

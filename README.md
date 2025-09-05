@@ -1,3 +1,7 @@
 Alex Brown alexoutfal
 
-CS 2400 Section 104
+alex@alexdbrown.com
+
+I recorded my answers in answers.md
+
+Done
